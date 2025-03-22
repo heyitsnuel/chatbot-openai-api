@@ -6,7 +6,7 @@ This repository contains a project to create a travel guide chatbot using [OpenA
 The goal of the project is to build a helpful conversational agent that can answer user inquiries about travel destinations in Bali, Indonesia.
 
 ## Models
-The model used in this project is `gpt-4.0-mini`.
+The model used in this project is `gpt-3.5-turbo`.
 
 ## Files
 1. `chatbot.ipynb`: The Jupyter notebook containing the code.
