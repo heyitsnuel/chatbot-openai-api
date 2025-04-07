@@ -14,7 +14,7 @@ The model used in this project is `gpt-3.5-turbo`.
 ## Getting Started
 To get started with the project, follow these steps:
 
-1. Go to the OpenAI API [signup page](https://platform.openai.com/signup_ and create an account. 
+1. Go to the OpenAI API [signup page](https://platform.openai.com/signup) and create an account. 
 3. Go to the [API Keys](https://platform.openai.com/api-keys) page and create a secret key.
 4. Copy the key and save it somewhere you can easily retrieve.
 5. Go to the [Billing](https://platform.openai.com/settings/organization/billing/payment-methods) page and add a payment method.
